@@ -1,0 +1,1 @@
+logo = logo.resize((130, 70), Image.LANCZOS)
